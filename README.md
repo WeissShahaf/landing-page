@@ -8,19 +8,18 @@
 <h2>
   <br>
 </a>
-* consulting
-** online consulting for your experiments, code.
+## consulting
+ online consulting for your experiments, code.
 <br>
 </a>
-* programming
+## programming
   
  analysis pipelines
-<br>
-</a>
+
 ## teaching
-### vertabrate anatomy
-### neurophysiology
-### neuroanatomy
+## vertabrate anatomy
+## neurophysiology
+## neuroanatomy
 
 
 <br></a> ### technical instructions
