@@ -13,9 +13,11 @@
 
 ## programming
  <img lign="right" width="256" height="256" alt="Gemini_Generated_Image_9iv9gm9iv9gm9iv9" src="https://github.com/user-attachments/assets/4a204048-e1e1-4495-8fa5-e5a4eba22a87" width="200" height="200" />
- </a>
+ <br />
+<br />
  *data analysis
-</a> 
+<br />
+<br />
  *pipelines
 </a>
 <br />
