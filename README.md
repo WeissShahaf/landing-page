@@ -1,5 +1,5 @@
 ### Hi there 👋
-* 👂 My name is Shahaf Weiss
+* 👂 Hi,I'm Shahaf Weiss, an electrophysiologisty, Consultant,  Developer. 
 * 🔭 I’m currently working in Biotech consulting and as a postdoc at Max-Planck institute for brain research.
 
 
@@ -16,7 +16,7 @@
 
 <br />
 
-Hi,I'm Shahaf Weiss, an electrophysiologisty, Consultant,  Developer. 
+
 
 
 
