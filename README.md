@@ -19,19 +19,20 @@
 Hi,I'm Shahaf Weiss, an electrophysiologisty, Consultant,  Developer. 
 
 
-**Languages and Tools:**
-MATLAB
-Python
-C##
+
 
 
 
 
 
 * <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+MATLAB
+Python
+C##
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
