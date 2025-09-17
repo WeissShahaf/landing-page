@@ -8,7 +8,7 @@
 
 ## My services:
 
-<h2>
+
 ### Consulting  
   <br />
 <h2>
