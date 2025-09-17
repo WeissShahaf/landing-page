@@ -19,7 +19,7 @@
  *pipelines
 
 ## teaching
-<img width="1024" height="1024" alt="Gemini_Generated_Image_7bmzk37bmzk37bmz (2)" src="https://github.com/user-attachments/assets/8144b1ff-9b74-4363-b7d5-64f6f3d4b153" />
+<img align="left" width="1024" height="1024" alt="Gemini_Generated_Image_7bmzk37bmzk37bmz (2)" src="https://github.com/user-attachments/assets/8144b1ff-9b74-4363-b7d5-64f6f3d4b153" />
 
 * vertabrate anatomy
 
