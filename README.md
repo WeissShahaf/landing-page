@@ -5,7 +5,7 @@
 <img align="center" width="1280" height="800" alt="Gemini_Generated_Image_s58o02s58o02s58o" src="https://github.com/user-attachments/assets/eb42e113-759e-4c7f-80c2-787507a0b680" />
 
 #### Services
-<h2>
+
   <img lign="right" width="256" height="256" alt="ChatGPT Image Sep 17, 2025, 04_30_41 PM" src="https://github.com/user-attachments/assets/e0f09033-4106-4e30-975f-24fcbde46010" width="200" height="200"/>
 </a>
 <br />
@@ -33,9 +33,6 @@
 * neuroanatomy
 
 
-<br />
-
-<br />
 
 
 <br />
@@ -44,17 +41,7 @@
 
 <br />
 
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-## technical instructions
+### technical instructions
 * elcectrophysiology
 * spike sorting
 * denoising, debuggin, troubleshooting experiments
