@@ -6,13 +6,13 @@
 
 #### Services
 <h2>
-  <img lign="right" width="1536" height="256" alt="ChatGPT Image Sep 17, 2025, 04_30_41 PM" src="https://github.com/user-attachments/assets/e0f09033-4106-4e30-975f-24fcbde46010" width="200" height="200"/>
+  <img lign="right" width="256" height="256" alt="ChatGPT Image Sep 17, 2025, 04_30_41 PM" src="https://github.com/user-attachments/assets/e0f09033-4106-4e30-975f-24fcbde46010" width="200" height="200"/>
 </a>
 <br />
 <br />
 
 ## programming
- <img lign="right" width="1024" height="256" alt="Gemini_Generated_Image_9iv9gm9iv9gm9iv9" src="https://github.com/user-attachments/assets/4a204048-e1e1-4495-8fa5-e5a4eba22a87" width="200" height="200" />
+ <img lign="right" width="256" height="256" alt="Gemini_Generated_Image_9iv9gm9iv9gm9iv9" src="https://github.com/user-attachments/assets/4a204048-e1e1-4495-8fa5-e5a4eba22a87" width="200" height="200" />
  </a>
  *data analysis
 </a> 
@@ -23,7 +23,7 @@
 
 
 ## teaching
-<img align="right" width="256" height="1024" alt="Gemini_Generated_Image_7bmzk37bmzk37bmz (2)" src="https://github.com/user-attachments/assets/8144b1ff-9b74-4363-b7d5-64f6f3d4b153" width="100" height="100" />
+<img align="right" width="256" height="256" alt="Gemini_Generated_Image_7bmzk37bmzk37bmz (2)" src="https://github.com/user-attachments/assets/8144b1ff-9b74-4363-b7d5-64f6f3d4b153" width="100" height="100" />
 
 * vertabrate anatomy
 
