@@ -34,10 +34,25 @@
 
 <br />
 
+</a>
+<br />
+
+<br />
+
 ## technical instructions
 * elcectrophysiology
 * spike sorting
 * denoising, debuggin, troubleshooting experiments
+
+</a>
+<br />
+
+<br />
+
+</a>
+<br />
+
+<br />
 
 
 
