@@ -14,8 +14,12 @@
 ## programming
 <h2>
  <img lign="right" width="256" height="256" alt="Gemini_Generated_Image_9iv9gm9iv9gm9iv9" src="https://github.com/user-attachments/assets/4a204048-e1e1-4495-8fa5-e5a4eba22a87" width="200" height="200" />
- *data analysis
- *pipelines
+  </a>
+  <br />
+ * data analysis
+  </a>
+  <br />
+ * pipelines
 
 <br />
 <br />
@@ -26,11 +30,11 @@
 ## teaching
 <h2>
 <img align="left" width="256" height="256" alt="Gemini_Generated_Image_7bmzk37bmzk37bmz (2)" src="https://github.com/user-attachments/assets/8144b1ff-9b74-4363-b7d5-64f6f3d4b153" width="100" height="100" />
-
+</a>
 * vertabrate anatomy
-
+</a>
 * neurophysiology
-
+</a>
 * neuroanatomy
 
 
