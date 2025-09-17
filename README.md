@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/weissShahaf/landing-page/blob/output/github-contribution-grid-snake.svg)
+
 ### Hi there 👋
 * 👂 Hi,I'm Shahaf Weiss, an electrophysiologisty, Consultant,  Developer. 
 * 🔭 I’m currently working in Biotech consulting and as a postdoc at Max-Planck institute for brain research.
