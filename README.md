@@ -13,6 +13,7 @@
   <br />
 <h2>
   <img lign="left" width="256" height="256" alt="ChatGPT Image Sep 17, 2025, 04_30_41 PM" src="https://github.com/user-attachments/assets/e0f09033-4106-4e30-975f-24fcbde46010" width="200" height="200"/>
+  
   * designing experimental devices, silicone probes, behavioral arenas
   * designing analysis workflows
   * troubleshooting existingb experiments
