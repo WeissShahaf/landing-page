@@ -15,11 +15,11 @@
  
 ## teaching
 
-## vertabrate anatomy
+* vertabrate anatomy
 
-## neurophysiology
+* neurophysiology
 
-## neuroanatomy
+* neuroanatomy
 
 
 ## technical instructions
