@@ -8,24 +8,24 @@
 <h2>
   <br>
 </a>
-## consulting
- online consulting for your experiments, code.
-<br>
-</a>
-## programming
-  
- analysis pipelines
 
+
+
+## programming
+ 
 ## teaching
+
 ## vertabrate anatomy
+
 ## neurophysiology
+
 ## neuroanatomy
 
 
-<br></a> ### technical instructions
-### elcectrophysiology
-### spike sorting
-### denoising, debuggin, troubleshooting experiments
+## technical instructions
+* elcectrophysiology
+* spike sorting
+* denoising, debuggin, troubleshooting experiments
 
 
 
