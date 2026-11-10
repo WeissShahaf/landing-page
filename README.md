@@ -71,6 +71,13 @@
 * comparative vertabrate anatomy
 * neuroanatomy
 
+<br />
+
+### Open-source web tools
+
+* **Spiking cell PSTH simulator** - build a simulated cell, view its raster and PSTH, and run spike-response tests on it. [Open the app](https://weissshahaf.github.io/spiking-cell-PSTH-simulator/app/) | [Code](https://github.com/WeissShahaf/spiking-cell-PSTH-simulator)
+* **Statistical ICC power calculator** - how many animals and cells per animal are needed for 80% power when cells within an animal are correlated. [Open the app](https://weissshahaf.github.io/Statistical-ICC-power-calculator/app/) | [Code](https://github.com/WeissShahaf/Statistical-ICC-power-calculator)
+
 
 
 
